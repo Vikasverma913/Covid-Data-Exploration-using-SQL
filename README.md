@@ -1,0 +1,2 @@
+# Covid-Data-Exploration-using-SQL
+Covid Data Exploration from February 2020 to July 2022. Finding the highest and lowest infection rate on country and continent basis, highest and lowest death rate on country and continent basis and highest and vaccination rate among countries. Also, infection rate, death rate and vaccination rate relative to the population of countries are some of the insights I tried to find using SQL.
